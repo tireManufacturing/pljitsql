@@ -1,0 +1,12 @@
+
+# CREATE LANGUAGE
+
+```
+$ psql
+psql (17devel)
+Type "help" for help.
+
+postgres=# create language pljitsql;
+CREATE EXTENSION
+postgres=#
+```
